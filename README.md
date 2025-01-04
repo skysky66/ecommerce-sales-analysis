@@ -1,2 +1,1 @@
-# ecommerce-sales-analysis
-E-commerce Sales Trend and Customer Behavior Analysis
+Data Source: Kaggle E-Commerce Sales Dataset. https://www.kaggle.com/datasets/berkayalan/ecommerce-sales-dataset?select=basket_details.csv
